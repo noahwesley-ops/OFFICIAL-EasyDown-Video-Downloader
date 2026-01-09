@@ -1,4 +1,4 @@
-# [OFFICIAL]EasyDown Video Downloader
+# [OFFICIAL] EasyDown Video Downloader
 
 ![Version](https://img.shields.io/badge/version-2.4.0-blue.svg) ![Sites](https://img.shields.io/badge/supported%20sites-1000%2B-green.svg) ![Quality](https://img.shields.io/badge/quality-4K%20%7C%20Lossless%20%7C%20ID3%20Tags-orange.svg)
 
